@@ -1,0 +1,31 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+.svg{
+    height: 60%;
+    margin-top: 20%;
+}
+
+#body{
+    background-color: #EAF0F1;
+}
+
+#right{
+    margin-top: 30vh;
+}
+h1{
+    font-size: 3em;
+}
+#search{
+    border: none;
+    display: block;
+    margin-top: 5%;
+    background-color: #6C63FE;
+    color: white;
+    margin-bottom: 5%;
+}
+input{
+    border: none;
+    padding: 2%;
+    margin-top: 10%;
+}
